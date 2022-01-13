@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashcien07
 - 👀 I’m interested in Cloud Based Technology &AI Machine learning.
-- 🌱 I’m currently learning B.Sc It Cloud Computing from Parul University 
+- 🌱 I’m currently learning B.Sc It Cloud Computing
 - 💞️ I’m looking to collaborate on new opportunites that would let gain experience of the real time coding.
 - 📫 How to reach me snehashishpatra8@gmail.com || Twitter -https://twitter.com/SnehashishPatr4 || 
       LinkdeIn - https://www.linkedin.com/in/snehashish-patra-38645b1b4/

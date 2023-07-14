@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @Ashcien07<br>👀 I’m interested in Cloud Based Technology &AI Machine learning.<br>🌱 I’m currently learning B.Sc It Cloud Computing<br>👀 Pronouns He/His<br>💞️ I’m looking to collaborate on new opportunites that would let gain experience of the real time coding.<br>📫 How to reach me snehashishpatra8@gmail.com || Twitter -https://twitter.com/SnehashishPatr4 || LinkdeIn - https://www.linkedin.com/in/snehashish-patra-38645b1b4/<br>🥇Fun Fact : Athlete, Singer & Programmer.
-
+[![Ashcien07's GitHub | Stats](https://stats.quine.sh/Ashcien07/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashcien07)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Ashcien) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/snehashish.patra.566) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashcien_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehashish-patra-38645b1b4/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SnehashishPatr4) 
